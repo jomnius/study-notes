@@ -1,15 +1,25 @@
 # Welcome to Jomnius Study Notes
 
-Read somewhere how a person was studying 15-30 minutes a day, about 5 times a week. She didn't have any detailed long-term plans, just something for the next few weeks. Insert [link](https://google.com) when I find it again.
-
-So I decided to try the same system. Here are some notes for some of the bigger, more concentrated, studies. Now just trying out the online format, currently my real study notes are in a big black notebook (with paper and pen).
-
 ```
 The secret of getting ahead
 is getting started.
 
 -- Mark Twain
 ```
+
+Read somewhere how this person was studying about 15-30 minutes a day, about 5 times a week. She didn't have any detailed long-term plans, just general idea for the next few weeks, because when you start reading something and check references or additional info, you're suddenly somewhere completely different subject.
+
+Insert [link](https://google.com) when I find it again.
+
+So I decided to try similar system. Here are some notes for some of the bigger, more concentrated, studies.
+
+Now experimenting with the online format, my real study notes are in a physical big black notebook (with real paper and real pen). Most of my notes are just titles and subtitles from original article or video, exact quotes of important text and also source code, there is no point copying it here, too.
+
+The value of writing things down is to make it easier for me to remember something afterwards. However I have checked my notes a few times, mainly to find out which of the many similar articles did I actually read.
+
+Now I'm thinking that I could put here tags and summary, maybe the key discovery or why I read the thing in the first place. That would be kind of meta notes of study notes.
+
+## 2019 May
 
 ## 2019 April
 
@@ -34,6 +44,7 @@ is getting started.
 ## 2019 March
 
 ### [Linux and Unix comm command tutorial with examples](https://shapeshed.com/unix-comm/)
+- utility
 
 ### [What’s new in Swift 5.0](https://www.hackingwithswift.com/articles/126/whats-new-in-swift-5-0)
 - swift, ios
@@ -42,10 +53,13 @@ is getting started.
 - swift, ios
 
 ### [How to Use Psychology to Solve the Procrastination Puzzle](https://medium.com/s/the-complete-guide-to-beating-procrastination/how-to-use-psychology-to-solve-the-procrastination-puzzle-6e6a56cdd535)
+- study
 
 ### [Lightning Talk: Dear Interviewee: What Your Interviewer Would Like You to Know, But Can’t Tell You](https://skillsmatter.com/skillscasts/13297-lightning-talk-dear-interviewee-what-your-interviewer-would-like-you-to-know-but-can-t-tell-you)
+- recruit, interview
 
 ### [Lightning Talk: Use Sourcery to Make Your iOS Code Write Itself](https://skillsmatter.com/skillscasts/13308-lightning-talk-use-sourcery-to-make-your-ios-code-write-itself)
+- utility
 
 ### [Parsing Formal Languages with Swift](https://skillsmatter.com/skillscasts/13298-parsing-formal-languages-with-swift)
 - swift
@@ -77,18 +91,14 @@ History trip of Charles proxy, all the things that can go wrong in networking. C
 - Check also Latency Debug and Network Performance Analysis
 
 ### [Charles Proxy Tutorial for iOS](https://www.raywenderlich.com/641-charles-proxy-tutorial-for-ios)
+- ios, debug, networking
 
-- Proxy sits between your app and internet, all requests / responses get through the proxy
+Proxy sits between your app and internet, all requests / responses get through the proxy.
 
 ### [Self-sizing Table View Cells](https://www.raywenderlich.com/8549-self-sizing-table-view-cells)
-- Auto-layout and UITableView
+- ios, swift, debug
+
 - Tutorial app overview
-- Creating self-sizing Table View cells
-- Configuring the tableview
-- Adding images
-- Creating dynamic height
-- Expanding cells
-- Implementing dynamic type
 - Settings - General - Accessibility - Larger Text --> check the app
 
 ### Markdown
