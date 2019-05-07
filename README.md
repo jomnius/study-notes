@@ -19,7 +19,7 @@ The value of physically writing things down is to make it easier for me to remem
 
 Now I'm thinking that I could put here tags and summary, maybe the key discovery or why I read the thing in the first place. That would be kind of meta notes of study notes.
 
-...work in progress, just thinking aloud.
+...work in progress, just thinking aloud. Btw direct link to this webpage https://jomnius.github.io/study-notes
 
 ---
 
@@ -124,7 +124,7 @@ Proxy sits between your app and internet, all requests / responses get through t
 - Settings - General - Accessibility - Larger Text --> check the app
 
 ---
-The following is just copy & paste from the original automatically generated template, here as a reference for me.
+HOX: the following is just copy & paste from the original automatically generated template, here as a reference for me.
 
 ### Markdown
 
