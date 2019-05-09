@@ -25,6 +25,14 @@ Now I'm thinking that I could put here tags and summary, maybe the key discovery
 
 ## 2019 May
 
+### [Xcode Build Locations](https://pewpewthespells.com/blog/xcode_build_locations.html)
+Samantha Demi 21 July 2016
+- ios
+
+Detailed description of all Xcode build types (Unique, Shared, Custom, DeterminedByTargets) and their build folder locations. Also how to find more info from `com.apple.dt.Xcode` using command line `defaults` command.
+
+The default build location is `Unique`.
+
 ### [The iOS Application Lifecycle](https://hackernoon.com/application-life-cycle-in-ios-12b6ba6af78b)
 Leela Prasad Penumutchu 15 Jul 2018
 - ios
