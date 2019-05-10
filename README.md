@@ -7,9 +7,9 @@ is getting started.
 -- Mark Twain
 ```
 
-Read somewhere how this non-student person was studying about 15-30 minutes a day, about 5 times a week. She didn't have any detailed long-term plans, just general idea for the next few weeks, because when you start reading something and check references or additional info, you're suddenly somewhere completely different subject.
+Read somewhere how this (non-student) person was studying 15-30 minutes a day, about 5 times a week. She didn't have detailed long-term plans, just general idea for the next few weeks, even when following a book or video series. When you start reading something and check references or additional info, you're suddenly somewhere completely different place.
 
-Insert [link](https://google.com) when I find it again.
+TODO: Insert [link](https://google.com) when I find it again.
 
 So I decided to try similar system. Here are some notes for some of the bigger, more concentrated, studies I've done. Missing the daily quick blog reads or manual checks.
 
@@ -19,7 +19,7 @@ The value of physically writing things down is to make it easier for me to remem
 
 Now I'm thinking that I could put here tags and summary, maybe the key discovery or why I read the thing in the first place. That would be kind of meta notes of study notes.
 
-...work in progress, just thinking aloud. Btw direct link to this webpage https://jomnius.github.io/study-notes
+...work in progress, just thinking aloud. Btw direct link to this as a webpage https://jomnius.github.io/study-notes
 
 ---
 
@@ -41,7 +41,7 @@ The best part, however, are the documentation links to e.g. `watchOS Complicatio
 
 ### [Xcode Build Locations](https://pewpewthespells.com/blog/xcode_build_locations.html)
 Samantha Demi 21 July 2016
-- ios
+- ios, Xcode
 
 Detailed description of all Xcode build types (Unique, Shared, Custom, DeterminedByTargets) and their build folder locations. Also how to find more info from `com.apple.dt.Xcode` using command line `defaults` command.
 
@@ -103,7 +103,7 @@ The article is about COBE Team experiences with Scrum Poker (aka Planning Poker)
 - recruit, interview
 
 ### [Lightning Talk: Use Sourcery to Make Your iOS Code Write Itself](https://skillsmatter.com/skillscasts/13308-lightning-talk-use-sourcery-to-make-your-ios-code-write-itself)
-- utility
+- utility, ios
 
 ### [Parsing Formal Languages with Swift](https://skillsmatter.com/skillscasts/13298-parsing-formal-languages-with-swift)
 - swift
@@ -118,7 +118,7 @@ The article is about COBE Team experiences with Scrum Poker (aka Planning Poker)
 - swift, ios, testing
 
 ### [Build performance analysing in Xcode 10](https://www.avanderlee.com/optimization/analysing-build-performance-xcode-10/)
-- swift, ios
+- swift, ios, Xcode
 
 ### [try! Swift Tokyo 2018 - Introducing Charles for iOS](https://www.youtube.com/watch?v=RWotEyTeJhc)
 - ios, debug, networking
@@ -137,10 +137,10 @@ History trip of Charles proxy, all the things that can go wrong in networking. C
 ### [Charles Proxy Tutorial for iOS](https://www.raywenderlich.com/641-charles-proxy-tutorial-for-ios)
 - ios, debug, networking
 
-Proxy sits between your app and internet, all requests / responses get through the proxy.
+Proxy sits between your app and internet, all requests / responses go through the proxy.
 
 ### [Self-sizing Table View Cells](https://www.raywenderlich.com/8549-self-sizing-table-view-cells)
-- ios, swift, debug
+- ios, swift, testing
 
 - Tutorial app overview
 - Settings - General - Accessibility - Larger Text --> check the app
