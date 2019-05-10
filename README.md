@@ -25,6 +25,12 @@ Now I'm thinking that I could put here tags and summary, maybe the key discovery
 
 ## 2019 May
 
+### [Why I don’t use PDFs for iOS assets](https://bjango.com/articles/idontusepdfs/)
+bjango (company) 29 Nov 2017
+- ios, design
+
+Oldie but goldie about using PDF image assets in iOS apps. Very thorough and balanced analysis, pointing out also the good sides. Worth checking out as a reminder, so you can make informed decisions which format to use.
+
 ### [Improving asset catalogs](https://bjango.com/articles/assetcatalogs)
 bjango (company) 1 May 2019
 - ios, Xcode
