@@ -25,6 +25,14 @@ Now I'm thinking that I could put here tags and summary, maybe the key discovery
 
 ## 2019 May
 
+### [Improving asset catalogs](https://bjango.com/articles/assetcatalogs)
+bjango (company) 1 May 2019
+- ios, Xcode
+
+Critique of Apple's Xcode asset catalogs, but in a constructive way. Lists current problems in ways of working and suggests some automation improvements. You really don't want to update 100s or 1000s of images manually and then test that everything went ok.
+
+The best part, however, are the documentation links to e.g. `watchOS Complication` images sizes, `asset catalog format` and tool to inspect `.car` files.
+
 ### [Xcode Build Locations](https://pewpewthespells.com/blog/xcode_build_locations.html)
 Samantha Demi 21 July 2016
 - ios
