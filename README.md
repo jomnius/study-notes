@@ -38,13 +38,13 @@ The most interesting part for me was that this was done using `Xcode Playground`
 
 ### [Why I don’t use PDFs for iOS assets](https://bjango.com/articles/idontusepdfs/)
 bjango (company) 29 Nov 2017
-- ios, design
+- iOS, design
 
 Oldie but goldie about using PDF image assets in iOS apps. Very thorough and balanced analysis, pointing out also the good sides. Worth checking out as a reminder, so you can make informed decisions which format to use.
 
 ### [Improving asset catalogs](https://bjango.com/articles/assetcatalogs)
 bjango (company) 1 May 2019
-- ios, Xcode
+- iOS, Xcode
 
 Critique of Apple's Xcode asset catalogs, but in a constructive way. Lists current problems in ways of working and suggests some automation improvements. You really don't want to update 100s or 1000s of images manually and then test that everything went ok.
 
@@ -52,7 +52,7 @@ The best part, however, are the documentation links to e.g. `watchOS Complicatio
 
 ### [Xcode Build Locations](https://pewpewthespells.com/blog/xcode_build_locations.html)
 Samantha Demi 21 July 2016
-- ios, Xcode
+- iOS, Xcode
 
 Detailed description of all Xcode build types (Unique, Shared, Custom, DeterminedByTargets) and their build folder locations. Also how to find more info from `com.apple.dt.Xcode` using command line `defaults` command.
 
@@ -60,7 +60,7 @@ The default build location is `Unique`.
 
 ### [The iOS Application Lifecycle](https://hackernoon.com/application-life-cycle-in-ios-12b6ba6af78b)
 Leela Prasad Penumutchu 15 Jul 2018
-- ios
+- iOS
 
 Concise summary of key points of iOS application lifecycle: app states, transition flow between them, delegate calls and what do they all mean.
 
@@ -90,14 +90,14 @@ The article is about COBE Team experiences with Scrum Poker (aka Planning Poker)
 
 ### [Migrating to Unified Logging: Console and Instruments](https://www.raywenderlich.com/605079-migrating-to-unified-logging-console-and-instruments)
 Keegan Rush 1 April 2019 (RayWenderlich)
-- swift, ios, debug, logging
+- swift, iOS, debug, logging
 
 How to debug iOS apps using Apple's `Unified Logging` system with the Console and Instruments apps. Summary: use `os_log` instead of `print`, but otherwise it's similar.
 
 More info at WWDC 2016 video 721 [Unified Logging and Activity Tracing](https://developer.apple.com/videos/play/wwdc2016/721/) and WWDC 2018 video 405 [Measuring Performance Using Logging](https://developer.apple.com/videos/play/wwdc2018/405).
 
 ### [Building Simple Async API Request With Swift 5 Result Type](https://medium.com/@alfianlosari/building-simple-async-api-request-with-swift-5-result-type-alfian-losari-e92f4e9ab412)
-- swift, ios, networking
+- swift, iOS, networking
 
 ---
 
@@ -131,13 +131,13 @@ More info at WWDC 2016 video 721 [Unified Logging and Activity Tracing](https://
 - swift, ios
 
 ### [iOS Snapshot Test Case: Testing the UI](https://www.raywenderlich.com/5043-ios-snapshot-test-case-testing-the-ui)
-- swift, ios, testing
+- swift, iOS, testing
 
 ### [Build performance analysing in Xcode 10](https://www.avanderlee.com/optimization/analysing-build-performance-xcode-10/)
-- swift, ios, Xcode
+- swift, iOS, Xcode
 
 ### [try! Swift Tokyo 2018 - Introducing Charles for iOS](https://www.youtube.com/watch?v=RWotEyTeJhc)
-- ios, debug, networking
+- iOS, debug, networking
 
 History trip of Charles proxy, all the things that can go wrong in networking. Created Charles proxy as solution (for own problems) 18 years ago! Now intro Charles for iOS:
 
@@ -151,12 +151,12 @@ History trip of Charles proxy, all the things that can go wrong in networking. C
 - Check also Latency Debug and Network Performance Analysis
 
 ### [Charles Proxy Tutorial for iOS](https://www.raywenderlich.com/641-charles-proxy-tutorial-for-ios)
-- ios, debug, networking
+- iOS, debug, networking
 
 Proxy sits between your app and internet, all requests / responses go through the proxy.
 
 ### [Self-sizing Table View Cells](https://www.raywenderlich.com/8549-self-sizing-table-view-cells)
-- ios, swift, testing
+- iOS, swift, testing
 
 - Tutorial app overview
 - Settings - General - Accessibility - Larger Text --> check the app
