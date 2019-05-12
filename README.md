@@ -37,6 +37,16 @@ Overall, these sources are overlapping more or less.
 
 ## 2019 May
 
+### [The Time of Day Has a Significant Effect on Your Productivity](https://benoitpasquier.com/how-to-bootstrap-ios-app-to-iterate-faster/)
+Thomas Oppong 22 April 2019
+- productivity
+
+Sometimes less is more, if you know yourself. Studies says human body and mind work in cycles and you should choose what kind of things to do at what time to improve your productivity.
+
+Cycles are 90 - 120 minute waves, but everybody is different based on internal and external factors. In general many are most alert at 9-11 and least productive in the afternoon: do complex tasks in the morning and meetings and brainstorming in the evening. Surprisingly creativity and innovation increases, when you're tired.
+
+Follows with instructions how to find your own personal productivity trends, in 3 weeks to months.
+
 ### [An overview of the MVVM design pattern in Swift](https://medium.freecodecamp.org/an-overview-of-the-mvvm-design-pattern-in-swift-fb815ea5da40)
 Azhar 12 April 2019
 - iOS, architecture, MVVM, Playground
