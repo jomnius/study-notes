@@ -28,6 +28,14 @@ Now I'm thinking that I could put here tags and summary, maybe the key discovery
 
 ## 2019 May
 
+### [An overview of the MVVM design pattern in Swift](https://medium.freecodecamp.org/an-overview-of-the-mvvm-design-pattern-in-swift-fb815ea5da40)
+Azhar 12 April 2019
+- iOS, architecture, MVVM, Playground
+
+Short introduction to MVVM architecture: layer of abstraction between network (model) and UI (view). There's a lot more to this, as comments rightly say, but this is the basics.
+
+The most interesting part for me was that this was done using `Xcode Playground`, defining and displaying a UIViewController. Comes with full source code.
+
 ### [Why I don’t use PDFs for iOS assets](https://bjango.com/articles/idontusepdfs/)
 bjango (company) 29 Nov 2017
 - ios, design
