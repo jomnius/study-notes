@@ -21,6 +21,9 @@ Now I'm thinking that I could put here tags and summary, maybe the key discovery
 
 ...work in progress, just thinking aloud. Btw direct link to this as a webpage https://jomnius.github.io/study-notes
 
+## Disclaimer:
+- I have a personal, paid by myself, account to [RayWenderlich](https://www.raywenderlich.com). Therefore some of the links might point to non-free content.
+
 ---
 
 ## 2019 May
@@ -78,7 +81,12 @@ The article is about COBE Team experiences with Scrum Poker (aka Planning Poker)
 - swift, ios
 
 ### [Migrating to Unified Logging: Console and Instruments](https://www.raywenderlich.com/605079-migrating-to-unified-logging-console-and-instruments)
-- swift, ios, debug
+Keegan Rush 1 April 2019 (RayWenderlich)
+- swift, ios, debug, logging
+
+How to debug iOS apps using Apple's `Unified Logging` system with the Console and Instruments apps. Summary: use `os_log` instead of `print`, but otherwise it's similar.
+
+More info at WWDC 2016 video 721 [Unified Logging and Activity Tracing](https://developer.apple.com/videos/play/wwdc2016/721/) and WWDC 2018 video 405 [Measuring Performance Using Logging](https://developer.apple.com/videos/play/wwdc2018/405).
 
 ### [Building Simple Async API Request With Swift 5 Result Type](https://medium.com/@alfianlosari/building-simple-async-api-request-with-swift-5-result-type-alfian-losari-e92f4e9ab412)
 - swift, ios, networking
