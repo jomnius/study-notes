@@ -1,4 +1,4 @@
-# Welcome to Jomnius Lifelong Learning Study Notes
+# Welcome to Jomnius Continuous Learning Study Notes
 
 ```
 The secret of getting ahead
@@ -22,10 +22,10 @@ Now I'm thinking that I could put here tags and summary, maybe the key discovery
 ...work in progress, just thinking aloud. Btw direct link to this as a webpage https://jomnius.github.io/study-notes
 
 ## Inspiration
-My most usual sources for random study inspiration are:
-- [iOS Dev Weekly](https://iosdevweekly.com) by Dave Verwer. Delightful collection of the best in mobile development this week (Friday). If you check anything, this is the one.
-- [Ray Wenderlich](https://www.raywenderlich.com), massive site for all mobile development related training. Videos, articles, books, podcasts. Good, when you know what you want.
-- [Daily Medium Digest](https://medium.com), personalized for me based on... something. There is some criticism against Medium, but it does have lots of quality diverse content. What I like most is that it proposes me articles outside of my main areas of interest, propably because it doesn't know me as well as it would like to. Which is just fine.
+My most common sources for non-work related study inspiration are:
+- [iOS Dev Weekly](https://iosdevweekly.com) by Dave Verwer. Delightful collection of the best in mobile development this week (Friday). If you check anything, this is the one!
+- [Ray Wenderlich](https://www.raywenderlich.com), massive site for all mobile development related training. Videos, articles, books, podcasts. High quality material.
+- [Daily Medium Digest](https://medium.com), personalized for me based on... something. There is some criticism against Medium, but it does have lots of quality diverse content. What I like most is that it proposes me articles outside of my main areas of interest, probably because it doesn't know me as well as it would like to. Which is just fine.
 - [iOS Goodies](ios-goodies.com), interesting weekly list of links.
 
 Overall, these sources are overlapping more or less.
