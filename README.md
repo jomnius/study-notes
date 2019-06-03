@@ -35,6 +35,18 @@ Overall, these sources are overlapping more or less.
 
 ---
 
+## 2019 June
+
+### [Swift CoreNFC as quick as possible](https://blog.usejournal.com/swift-corenfc-as-quick-as-possible-79544796cd0a)
+Myrick Chow 27 Dec 2018
+- NFC, iOS
+
+Near Field Communication for iOS has been available since iPhone7 hardware was released 2016. It can be used, when compatible device or tag is within 4 cm distance.
+
+**Setup**: enable "NFC Tag Reading" for app ID at Developer Console as well as at app target Capabilities. Also you MUST define `com.apple.developer.nfc.readersession.formats` at info.plist file. Finally add "CoreNFC" framework, as optional unless your app doesn't work without NFC at all.
+
+Finally some sample code, especially about interpreting NFC related data and comments about UI handling.
+
 ## 2019 May
 
 ### [The Time of Day Has a Significant Effect on Your Productivity](https://benoitpasquier.com/how-to-bootstrap-ios-app-to-iterate-faster/)
