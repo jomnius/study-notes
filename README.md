@@ -37,6 +37,38 @@ Overall, these sources are overlapping more or less.
 
 ## 2019 June
 
+### [WWDC 2019 - The Things You May Have Missed](https://patrickbalestra.com/blog/2019/06/07/wwdc-2019-the-things-you-may-have-missed.html)
+Patrick Balestra 7 Jun 2019
+- wwdc2019
+
+Good list of Apple SDK changes, updates and new things, which might have been missed in all the SwiftUI excitement. Keep checking, the list will be updated.
+
+### [SwiftUI Essentials](https://developer.apple.com/videos/play/wwdc2019/216/)
+Apple 5 Jun 2019
+- wwdc2019, iOS, macOS, tvOS, watchOS
+
+SwiftUI intro, the declarative language. Looks amazing, wonder how much this will change in coming years. Looking at swift history of evolvement. But yes, want to try this out.
+
+### [WWDC 2019 Platforms State of the Union](https://developer.apple.com/videos/play/wwdc2019/103/)
+Apple, 3 Jun 2019
+- wwdc2019, iOS, macOS, tvOS, watchOS
+
+Something I watch live, even though it starts half past midnight and lasts couple hours. Worth every time, especially this year!
+
+### [WWDC 2019 Keynote](https://developer.apple.com/videos/play/wwdc2019/101/)
+Apple, 3 Jun 2019
+- wwdc2019, iOS, macOS, tvOS, watchOS, ipadOS
+
+Oh. Wow. What! WOW! Shut up and take my... no wait, HOW MUCH for the stand?
+
+The Best Apple WWDC keynote for many years. Classic. Surprising. Delightful.
+
+### [Swift: () -> () vs () -> Void](https://ericasadun.com/2015/05/11/swift-vs-void/)
+Erica Sadun 11 May 2015
+- Swift
+
+Needed a verification and a reminder, when I was looking at some older code (maintenance task). Use () -> Void.
+
 ### [Swift CoreNFC as quick as possible](https://blog.usejournal.com/swift-corenfc-as-quick-as-possible-79544796cd0a)
 Myrick Chow 27 Dec 2018
 - NFC, iOS
