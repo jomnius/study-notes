@@ -37,6 +37,18 @@ Overall, these sources are overlapping more or less.
 
 ## 2019 June
 
+### [isEmpty vs. count == 0](https://medium.com/better-programming/strings-comparison-isempty-vs-count-0-be80d701901b)
+Matias Jurfest 25 May 2019
+- swift
+
+**TL;DR**: `count` needs to count everything until it can say whether count is zero or not, while `isEmpty` doesn't. So in general better use `isEmpty`, if it fits your use case.
+
+### [WWDC 2019 Viewing Guide](https://useyourloaf.com/blog/wwdc-2019-viewing-guide/)
+Keith Harrison (Use Your Loaf) 10 Jun 2019
+- wwdc2019
+
+Another interesting list of "Best of WWDC", been checking his lists in previous yours, too. Recommended!
+
 ### [WWDC 2019 - The Things You May Have Missed](https://patrickbalestra.com/blog/2019/06/07/wwdc-2019-the-things-you-may-have-missed.html)
 Patrick Balestra 7 Jun 2019
 - wwdc2019
