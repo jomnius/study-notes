@@ -37,6 +37,16 @@ Overall, these sources are overlapping more or less.
 
 ## 2019 June
 
+### [Swift Property Wrappers](https://nshipster.com/propertywrapper/)
+Mattt 24 June 2019
+- swift
+
+Swift 5.1 comes with `property wrappers`, which enable writing interesting code. In best case the rest of your code will be much more safe and readable, in worst case you got magical hard to debug behaviour.
+
+For example you can define property constraints (e.g. min and max) and automatic value cleanup (e.g. remove invalid characters) to well defined and known values.
+
+To see the proposal details and current status: [SE-0258: Property Wrappers](https://github.com/apple/swift-evolution/blob/master/proposals/0258-property-wrappers.md)
+
 ### [isEmpty vs. count == 0](https://medium.com/better-programming/strings-comparison-isempty-vs-count-0-be80d701901b)
 Matias Jurfest 25 May 2019
 - swift
