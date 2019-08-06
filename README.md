@@ -32,8 +32,43 @@ Overall, these sources are overlapping more or less.
 
 ## Disclaimer
 - I have a personal, paid by myself, auto-renewing annual account to [RayWenderlich](https://www.raywenderlich.com). Therefore some of the links might point to non-free content. But since this is **my study notes**, I do have access.
+- Btw you can always use "New Private Window" with Safari browser.
 
 ---
+
+## 2019 August
+
+###[The Many Offline Options for iOS Apps](https://medium.com/device-blogs/the-many-offline-options-for-ios-apps-2922c9b3bff3)
+Peter Livesey 9 Jan 2019
+- offline, cache, database, event bus
+
+Thorough article about pros and cons of some offline strategies, considering both download and upload use cases.
+
+###[Getting Started With the Combine Framework in Swift](https://medium.com/better-programming/getting-started-with-the-combine-framework-in-swift-36fe4ff6e568)
+Antoine van der lee 25 Jun 2019
+- Swift, Combine, RxSwift, MVVM
+
+Introduction with small code samples to Apple's new [Combine framework](https://developer.apple.com/documentation/combine), comparing it to **RxSwift** terms.
+
+###[Making a Real World Application With SwiftUI](https://medium.com/better-programming/making-a-real-world-application-with-swiftui-54e71d9e6042)
+Thomas Ricouard 22 July 2019
+- swiftUI, Instruments, debug
+
+Lessons learned while developing **[MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)**. Personally I prefer this kind of articles, highlighting the problems and possible solutions,
+
+Bonus points for using the word: **gracefully**.
+
+### [SwiftUI and Redux — Clean Code and Small, Independent Components](https://medium.com/better-programming/swiftui-and-redux-clean-code-and-small-independent-components-6f46a5eb46b3)
+Thomas Ricouard 26 July 2019
+- swiftUI, redux
+
+One of the very few positive things I stumbled on during React Native experiment was Redux. So combining SwiftUI and Redux got to be interesting, right?
+
+Well, this article doesn't talk about that - it shows all about how to use (author's implementation) of Redux with SwiftUI! It's part of pretty good looking open source **[MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)** iOS/iPad/macOS app.
+
+## 2019 July
+
+Summer vacation in Finland, the whole country is closed down. It's a bliss.
 
 ## 2019 June
 
