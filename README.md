@@ -38,6 +38,28 @@ Overall, these sources are overlapping more or less.
 
 ## 2019 August
 
+###[UITable​View​Header​Footer​View](https://nshipster.com/uitableviewheaderfooterview/)
+Mattt 8 APr 2019
+- swift, UI
+
+Just realized I haven't linked to **[NSHipster](https://nshipster.com/)** yet, even thought it's one of my favorite reference websites. I even bought the first book (long time ago)!
+
+This article is a clear and helpful discussion about UITableView section headers. Not table header, which I was looking for, but section headers. So rewrote that code, too!
+
+###[How to Kill a To-Do List](https://medium.com/swlh/how-to-kill-a-to-do-list-89fbeb710a09)
+L Kingsleigh 6 Aug 2019
+- todo
+
+Free-flowing short story about going from todo lists to done list. Worth reading, makes you think.
+
+###[6 books every designer should read](https://uxdesign.cc/6-books-every-designer-should-read-524888647c43)
+Ryan Gonzales 30 Jul 2019
+- books, design
+
+Interesting list of books, not the ones you see everywhere (yet). I firmly believe that everyone is a designer: some professionally, but all of us at least in small everyday things in our own lives.
+
+Also if you commute, grab a book. Read a book. Listen to a book. Reflect on books.
+
 ###[The Many Offline Options for iOS Apps](https://medium.com/device-blogs/the-many-offline-options-for-ios-apps-2922c9b3bff3)
 Peter Livesey 9 Jan 2019
 - offline, cache, database, event bus
