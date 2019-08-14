@@ -7,7 +7,7 @@ is getting started.
 -- Mark Twain
 ```
 
-Read somewhere how this (non-student) person was studying 15-30 minutes a day, about 5 times a week. She didn't have detailed long-term plans, just general idea for the next few weeks, even when following a book or video series. When you start reading something and check references or additional info, you're suddenly somewhere completely different place.
+I read somewhere how this (non-student) person was studying 15-30 minutes a day, about 5 times a week. She didn't have detailed long-term plans, just general idea for the next few weeks. When you start reading something and check references or additional info, you're suddenly on a completely different path.
 
 TODO: Insert [link](https://google.com) when I find it again.
 
@@ -37,6 +37,40 @@ Overall, these sources are overlapping more or less.
 ---
 
 ## 2019 August
+
+###[How to Maintain Transparency in Your Business at Different Levels](https://medium.com/swlh/how-to-maintain-transparency-in-your-business-at-different-levels-125da17097a)
+Shane Barker 13 Aug 2019
+- business, management
+
+Transparency and communication are part of a good working environment. But it all starts from the top.
+
+Some good ideas here, with comments. Mixed feelings about open office, though. For me, semi-open offices have worked best.
+
+###[A Smarter Way Move Forward When You’re Stuck](https://medium.com/swlh/how-to-move-forward-when-youre-stuck-21d10c7fa90a)
+Shannon Hennig 12 AUg 2019
+- productivity
+
+Always remember the basics:  take time to breathe, evaluate your options, keep moving forward.
+
+###[Functional Programming? Don’t Even Bother, It’s a Silly Toy](https://medium.com/better-programming/fp-toy-7f52ea0a947e)
+Ilya Suzdalnitski 29 Jul 2019
+- technology, humour
+
+Looking at functional programming from seriously large and complex enterprise software point of view. Or vice versa.
+
+Comes with a disclaimer, just in case.
+
+###[The Differences Between a Junior, Mid-Level, and Senior Developer](https://medium.com/better-programming/the-differences-between-a-junior-mid-level-and-senior-developer-bb2cb2eb000d)
+Daan 2 Aug 2019
+- engineering, technology
+
+I've seen over the years a lot of brilliant developers write most complicated code and I keep asking: why! Since this article has (currently) "12.8K claps", I guess I'm not the only one wondering about this kind of things.
+
+```
+“Any fool can write code that a computer can understand.
+Good programmers write code that humans can understand.”
+--Martin Fowler
+```
 
 ###[UITable​View​Header​Footer​View](https://nshipster.com/uitableviewheaderfooterview/)
 Mattt 8 APr 2019
