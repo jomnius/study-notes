@@ -38,7 +38,7 @@ Overall, these sources are overlapping more or less.
 
 ## 2019 August
 
-###[MVC without the C: What will SwiftUI change in app architecture?](https://blog.thefuntasty.com/mvc-without-the-c-what-will-swiftui-change-in-app-architecture-c9ce3f49d256)
+### [MVC without the C: What will SwiftUI change in app architecture?](https://blog.thefuntasty.com/mvc-without-the-c-what-will-swiftui-change-in-app-architecture-c9ce3f49d256)
 Matěj Kašpar Jirásek 22 Jul 2019
 - swiftUI, architecture
 
@@ -46,15 +46,15 @@ Speculation about SwiftUI having no controller, but state: what does this mean f
 
 Possibly uni-directional data flow, immutable app state, massive state (instead of massive view controller), maybe new architectures inspired by web like [ELM](https://guide.elm-lang.org/architecture/), [Redux](https://redux.js.org) or [Flux](https://facebook.github.io/flux/) in swift. Things are getting exciting!
 
-###[How do you recognize a 10x team?](https://medium.com/metrify/how-do-you-recognize-a-10x-team-294d0e15a757)
+### [How do you recognize a 10x team?](https://medium.com/metrify/how-do-you-recognize-a-10x-team-294d0e15a757)
 Osma Ahvenlampi 15 Jul 2019
-- development,
+- development, teamwork
 
 Inspired by the infamous "10x developer", what qualities might a true **"10x team"** have: small, focused, balance, autonomous, welcome diversity, support each others, teach, learn, trust, innovate.
 
 Some of those things can be achieved only with management support, no matter what kind of people are in the team.
 
-###[The Flawed Reasoning Behind the Replication Crisis](http://nautil.us/issue/74/networks/the-flawed-reasoning-behind-the-replication-crisis)
+### [The Flawed Reasoning Behind the Replication Crisis](http://nautil.us/issue/74/networks/the-flawed-reasoning-behind-the-replication-crisis)
 Aubrey Clayton 1 Aug 2019
 - analytics, statistics
 
@@ -62,13 +62,13 @@ Interesting article about problems of **statistical analysis**, especially about
 
 You hear "statistically significant" a lot with A/B testing. This might explain some curious test results.
 
-###[The Art of Communication](https://medium.com/swlh/the-art-of-communication-5faf111a89d)
+### [The Art of Communication](https://medium.com/swlh/the-art-of-communication-5faf111a89d)
 Jordan Fraser 12 Aug 2019
 - communication
 
 Intro to transactional analysis in communication: parent (experience), adult (reason), child (emotion) - match with a complimentary style.
 
-###[How to Maintain Transparency in Your Business at Different Levels](https://medium.com/swlh/how-to-maintain-transparency-in-your-business-at-different-levels-125da17097a)
+### [How to Maintain Transparency in Your Business at Different Levels](https://medium.com/swlh/how-to-maintain-transparency-in-your-business-at-different-levels-125da17097a)
 Shane Barker 13 Aug 2019
 - business, management
 
@@ -76,13 +76,13 @@ Transparency and communication are part of a good working environment. But it al
 
 Some good ideas here, with comments. Mixed feelings about open office, though. For me, semi-open offices have worked best.
 
-###[A Smarter Way Move Forward When You’re Stuck](https://medium.com/swlh/how-to-move-forward-when-youre-stuck-21d10c7fa90a)
+### [A Smarter Way Move Forward When You’re Stuck](https://medium.com/swlh/how-to-move-forward-when-youre-stuck-21d10c7fa90a)
 Shannon Hennig 12 AUg 2019
 - productivity
 
 Always remember the basics:  take time to breathe, evaluate your options, keep moving forward.
 
-###[Functional Programming? Don’t Even Bother, It’s a Silly Toy](https://medium.com/better-programming/fp-toy-7f52ea0a947e)
+### [Functional Programming? Don’t Even Bother, It’s a Silly Toy](https://medium.com/better-programming/fp-toy-7f52ea0a947e)
 Ilya Suzdalnitski 29 Jul 2019
 - technology, humour
 
@@ -90,7 +90,7 @@ Looking at functional programming from seriously large and complex enterprise so
 
 Comes with a disclaimer, just in case.
 
-###[The Differences Between a Junior, Mid-Level, and Senior Developer](https://medium.com/better-programming/the-differences-between-a-junior-mid-level-and-senior-developer-bb2cb2eb000d)
+### [The Differences Between a Junior, Mid-Level, and Senior Developer](https://medium.com/better-programming/the-differences-between-a-junior-mid-level-and-senior-developer-bb2cb2eb000d)
 Daan 2 Aug 2019
 - engineering, technology
 
@@ -102,7 +102,7 @@ Good programmers write code that humans can understand.”
 --Martin Fowler
 ```
 
-###[UITable​View​Header​Footer​View](https://nshipster.com/uitableviewheaderfooterview/)
+### [UITable​View​Header​Footer​View](https://nshipster.com/uitableviewheaderfooterview/)
 Mattt 8 APr 2019
 - swift, UI
 
@@ -110,13 +110,13 @@ Just realized I haven't linked to **[NSHipster](https://nshipster.com/)** yet, e
 
 This article is a clear and helpful discussion about UITableView section headers. Not table header, which I was looking for, but section headers. So rewrote that code, too!
 
-###[How to Kill a To-Do List](https://medium.com/swlh/how-to-kill-a-to-do-list-89fbeb710a09)
+### [How to Kill a To-Do List](https://medium.com/swlh/how-to-kill-a-to-do-list-89fbeb710a09)
 L Kingsleigh 6 Aug 2019
 - todo
 
 Free-flowing short story about going from todo lists to done list. Worth reading, makes you think.
 
-###[6 books every designer should read](https://uxdesign.cc/6-books-every-designer-should-read-524888647c43)
+### [6 books every designer should read](https://uxdesign.cc/6-books-every-designer-should-read-524888647c43)
 Ryan Gonzales 30 Jul 2019
 - books, design
 
@@ -124,19 +124,19 @@ Interesting list of books, not the ones you see everywhere (yet). I firmly belie
 
 Also if you commute, grab a book. Read a book. Listen to a book. Reflect on books.
 
-###[The Many Offline Options for iOS Apps](https://medium.com/device-blogs/the-many-offline-options-for-ios-apps-2922c9b3bff3)
+### [The Many Offline Options for iOS Apps](https://medium.com/device-blogs/the-many-offline-options-for-ios-apps-2922c9b3bff3)
 Peter Livesey 9 Jan 2019
 - offline, cache, database, event bus
 
 Thorough article about pros and cons of some offline strategies, considering both download and upload use cases.
 
-###[Getting Started With the Combine Framework in Swift](https://medium.com/better-programming/getting-started-with-the-combine-framework-in-swift-36fe4ff6e568)
+### [Getting Started With the Combine Framework in Swift](https://medium.com/better-programming/getting-started-with-the-combine-framework-in-swift-36fe4ff6e568)
 Antoine van der lee 25 Jun 2019
 - Swift, Combine, RxSwift, MVVM
 
 Introduction with small code samples to Apple's new [Combine framework](https://developer.apple.com/documentation/combine), comparing it to **RxSwift** terms.
 
-###[Making a Real World Application With SwiftUI](https://medium.com/better-programming/making-a-real-world-application-with-swiftui-54e71d9e6042)
+### [Making a Real World Application With SwiftUI](https://medium.com/better-programming/making-a-real-world-application-with-swiftui-54e71d9e6042)
 Thomas Ricouard 22 July 2019
 - swiftUI, Instruments, debug
 
