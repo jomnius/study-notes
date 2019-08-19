@@ -38,6 +38,25 @@ Overall, these sources are overlapping more or less.
 
 ## 2019 August
 
+### [4 Simple Tips To Promote Continuous Learning At Work](https://medium.com/manager-mint/4-simple-tips-to-promote-continuous-learning-at-work-e0a4813b83d9)
+Rohia Munavar 10 May 2019
+- Learning, management
+
+Really good article, so I'll just copy the titles!
+
+Challenges:
+- Time management
+- Lack of relevance
+- Fear of change
+- Bad communication
+- Fear of losing control
+
+Possibilities:
+- Make learning easily accessible
+- Integrate learning with business goals
+- The feedback culture
+- Reward and recognize
+
 ### [MVC without the C: What will SwiftUI change in app architecture?](https://blog.thefuntasty.com/mvc-without-the-c-what-will-swiftui-change-in-app-architecture-c9ce3f49d256)
 Matěj Kašpar Jirásek 22 Jul 2019
 - swiftUI, architecture
