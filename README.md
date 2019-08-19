@@ -38,6 +38,14 @@ Overall, these sources are overlapping more or less.
 
 ## 2019 August
 
+###[MVC without the C: What will SwiftUI change in app architecture?](https://blog.thefuntasty.com/mvc-without-the-c-what-will-swiftui-change-in-app-architecture-c9ce3f49d256)
+Matěj Kašpar Jirásek 22 Jul 2019
+- swiftUI, architecture
+
+Speculation about SwiftUI having no controller, but state: what does this mean for future (mobile, iOS, macOS) app development?
+
+Possibly uni-directional data flow, immutable app state, massive state (instead of massive view controller), maybe new architectures inspired by web like [ELM](https://guide.elm-lang.org/architecture/), [Redux](https://redux.js.org) or [Flux](https://facebook.github.io/flux/) in swift. Things are getting exciting!
+
 ###[How do you recognize a 10x team?](https://medium.com/metrify/how-do-you-recognize-a-10x-team-294d0e15a757)
 Osma Ahvenlampi 15 Jul 2019
 - development,
