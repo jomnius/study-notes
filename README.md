@@ -38,6 +38,28 @@ Overall, these sources are overlapping more or less.
 
 ## 2019 August
 
+###[How do you recognize a 10x team?](https://medium.com/metrify/how-do-you-recognize-a-10x-team-294d0e15a757)
+Osma Ahvenlampi 15 Jul 2019
+- development,
+
+Inspired by the infamous "10x developer", what qualities might a true **"10x team"** have: small, focused, balance, autonomous, welcome diversity, support each others, teach, learn, trust, innovate.
+
+Some of those things can be achieved only with management support, no matter what kind of people are in the team.
+
+###[The Flawed Reasoning Behind the Replication Crisis](http://nautil.us/issue/74/networks/the-flawed-reasoning-behind-the-replication-crisis)
+Aubrey Clayton 1 Aug 2019
+- analytics, statistics
+
+Interesting article about problems of **statistical analysis**, especially about getting different results when replicating tests, vs. **Bayesian inference**.
+
+You hear "statistically significant" a lot with A/B testing. This might explain some curious test results.
+
+###[The Art of Communication](https://medium.com/swlh/the-art-of-communication-5faf111a89d)
+Jordan Fraser 12 Aug 2019
+- communication
+
+Intro to transactional analysis in communication: parent (experience), adult (reason), child (emotion) - match with a complimentary style.
+
 ###[How to Maintain Transparency in Your Business at Different Levels](https://medium.com/swlh/how-to-maintain-transparency-in-your-business-at-different-levels-125da17097a)
 Shane Barker 13 Aug 2019
 - business, management
