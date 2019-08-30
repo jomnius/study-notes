@@ -38,6 +38,53 @@ Overall, these sources are overlapping more or less.
 
 ## 2019 August
 
+### [I test in prod](https://increment.com/testing/i-test-in-production/)
+Charity Majors August 2019
+- Management, testing, development
+
+Brilliant article about why we need to test in production. This is a conference quality speech, top of the class.
+
+```
+Could we have ironed out all the bugs before running it in prod? No.
+You can never, ever guarantee that you have ironed out all the bugs.
+```
+
+Covers technical, cultural and managerial aspects about the bigger picture of testing (also) in production.
+
+### [Why software projects take longer than you think – a statistical model](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html)
+Erik Bernhardsson 15 April 2019
+- statistics, development, estimations
+
+Some math about why estimations are (always) wrong. To simplify a lot, it looks like 80-20 rule: 80% of estimations are right, but the rest 20% can seriously mess up everything.
+
+Or like Erik wrote here:
+
+```
+Tasks with the most uncertainty (rather the biggest size) can
+often dominate the mean time it takes to complete all tasks.
+
+The mean time to complete a task we know nothing about is
+actually infinite.
+```
+
+### [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+Joel Spolsky 6 April 2000
+- Development, management
+
+Refactoring (yes) vs rewriting (never). Classic.
+
+### [The five types of communication problems that destroy company morale](https://qz.com/work/1587170/the-five-types-of-communication-problems-that-destroy-company-morale/)
+Cate Huston 4 April 2019
+- Communication
+
+I've seen all these happen in real life, for better of worse. Cate has good and clear examples, you better read them by yourself. Here's just the subtitles as a reminder:
+
+- Lack of depth
+- Conflicting context
+- Missing empathy
+- Communication that triggers anxiety
+- Assuming unearned trust
+
 ### [4 Simple Tips To Promote Continuous Learning At Work](https://medium.com/manager-mint/4-simple-tips-to-promote-continuous-learning-at-work-e0a4813b83d9)
 Rohia Munavar 10 May 2019
 - Learning, management
