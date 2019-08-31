@@ -1,5 +1,7 @@
 # Welcome to Jomnius Continuous Learning Study Notes
 
+...work in progress, just thinking aloud. Direct link to webpage https://jomnius.github.io/study-notes.
+
 ```
 The secret of getting ahead
 is getting started.
@@ -7,11 +9,9 @@ is getting started.
 -- Mark Twain
 ```
 
-...work in progress, just thinking aloud. Direct link to webpage https://jomnius.github.io/study-notes.
-
 I read how this (non-student) person was studying 15-30 minutes a day, about 5 times a week. She didn't have detailed long-term plans, just general idea for the next few weeks. When you start reading something and check references or additional info, you're suddenly on a completely different path.
 
-So I decided to try a similar system, first with a real physical big black book with handwritten notes and now this online format. Here are some notes of the more conscious readings, missing the constant quick references to tech sites, stack overflow and random blogs.
+So I decided to try a similar system, first with a real physical Big Black Books with handwritten notes and now this online format. Here are some notes of the more conscious readings, missing the constant quick references to tech sites, stack overflow and random blogs.
 
 The value of physically writing things down is to make it easier for me to remember something afterwards. I'm not planning to read them ever afterwards - however I have checked my notes a few times, mainly to find out which of the many similar articles did I actually read.
 
@@ -31,6 +31,32 @@ Overall, these sources are overlapping more or less.
 ---
 
 ## 2019 August
+
+### [My Points on Flutter as a React Native Developer](https://medium.com/@reime005/my-points-on-flutter-as-a-react-native-developer-7e55da1fcf6a)
+Marius Reimer 12 May 2019
+- React Native, Flutter
+
+I have my own deep react native scars, but it doesn't mean I wouldn't still be interested in what is going on in mobile development world. Flutter seems to miss some of react native issues, but have a few of its own. Still some day I would like to check Flutter for real, in a non-**toy problem** case.
+
+Since New Hacker Dictionary domain is currently hijacked:
+
+```
+toy problem /n./
+
+[AI] A deliberately oversimplified case of a challenging problem
+used to investigate, prototype, or test algorithms for a real problem.
+Sometimes used pejoratively. See also gedanken, toy program.
+```
+
+React Native was pretty nice, until things got complicated. The biggest problems were non-native looking components, different code still needed for iOS and Android, testing, build system, debugging and maintenance.
+
+### [Swift CoreNFC as quick as possible](https://itnext.io/swift-corenfc-as-quick-as-possible-79544796cd0a)
+Myrick Chow 27 Dec 2018
+- Swift, NFC
+
+Covers everything about NFC in iOS from setting up the project to decent user experience. If only I had a chance to actually use NFC in some project...
+
+Well, this would be my go-to article to get started!
 
 ### [I test in prod](https://increment.com/testing/i-test-in-production/)
 Charity Majors August 2019
@@ -65,13 +91,13 @@ actually infinite.
 Joel Spolsky 6 April 2000
 - Development, management
 
-Refactoring (yes) vs rewriting (never). Classic.
-
 ```
 The idea that new code is better than old is patently absurd.
 Old code has been used. It has been tested. Lots of bugs have
 been found, and they’ve been fixed.
 ```
+
+Refactoring (yes) vs rewriting (never). Classic.
 
 ### [The five types of communication problems that destroy company morale](https://qz.com/work/1587170/the-five-types-of-communication-problems-that-destroy-company-morale/)
 Cate Huston 4 April 2019
