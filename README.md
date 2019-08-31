@@ -7,19 +7,13 @@ is getting started.
 -- Mark Twain
 ```
 
-I read somewhere how this (non-student) person was studying 15-30 minutes a day, about 5 times a week. She didn't have detailed long-term plans, just general idea for the next few weeks. When you start reading something and check references or additional info, you're suddenly on a completely different path.
+...work in progress, just thinking aloud. Direct link to webpage https://jomnius.github.io/study-notes.
 
-TODO: Insert [link](https://google.com) when I find it again.
+I read how this (non-student) person was studying 15-30 minutes a day, about 5 times a week. She didn't have detailed long-term plans, just general idea for the next few weeks. When you start reading something and check references or additional info, you're suddenly on a completely different path.
 
-So I decided to try similar system. Here are some notes for some of the bigger, more concentrated, studies I've done. Missing the daily quick blog reads or manual checks.
-
-Now experimenting with the online format, my real study notes are in a physical big black notebook (using real paper and real pen). Most of my notes are just titles and subtitles from original article or video, exact quotes of important text and also source code, there is no point copying it here, too.
+So I decided to try a similar system, first with a real physical big black book with handwritten notes and now this online format. Here are some notes of the more conscious readings, missing the constant quick references to tech sites, stack overflow and random blogs.
 
 The value of physically writing things down is to make it easier for me to remember something afterwards. I'm not planning to read them ever afterwards - however I have checked my notes a few times, mainly to find out which of the many similar articles did I actually read.
-
-Now I'm thinking that I could put here tags and summary, maybe the key discovery or why I read the thing in the first place. That would be kind of meta notes of study notes.
-
-...work in progress, just thinking aloud. Btw direct link to this as a webpage https://jomnius.github.io/study-notes
 
 ## Inspiration
 My most common sources for non-work related study inspiration are:
@@ -32,7 +26,7 @@ Overall, these sources are overlapping more or less.
 
 ## Disclaimer
 - I have a personal, paid by myself, auto-renewing annual account to [RayWenderlich](https://www.raywenderlich.com). Therefore some of the links might point to non-free content. But since this is **my study notes**, I do have access.
-- Btw you can always use "New Private Window" with Safari browser.
+- Btw with Medium links you can always use "New Private Window" with Safari browser.
 
 ---
 
@@ -73,11 +67,23 @@ Joel Spolsky 6 April 2000
 
 Refactoring (yes) vs rewriting (never). Classic.
 
+```
+The idea that new code is better than old is patently absurd.
+Old code has been used. It has been tested. Lots of bugs have
+been found, and they’ve been fixed.
+```
+
 ### [The five types of communication problems that destroy company morale](https://qz.com/work/1587170/the-five-types-of-communication-problems-that-destroy-company-morale/)
 Cate Huston 4 April 2019
 - Communication
 
-I've seen all these happen in real life, for better of worse. Cate has good and clear examples, you better read them by yourself. Here's just the subtitles as a reminder:
+```
+Good strategy requires depth, which means having an understanding
+of key problems and an ability to explain how the strategy addresses
+them. When that depth is absent, credibility is lost
+```
+
+I've seen all these happen in real life, for better or worse. Cate has good and clear examples, you better read them by yourself. Here's just the subtitles as a reminder:
 
 - Lack of depth
 - Conflicting context
