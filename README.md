@@ -30,6 +30,54 @@ Overall, these sources are overlapping more or less.
 
 ---
 
+### 2019 September
+
+### [How I Managed to Enjoy My One-on-Ones](https://medium.com/@aike.sommer/how-i-managed-to-enjoy-my-one-on-ones-4be172c82d1d)
+Aike J Sommer 28 Aug 2019
+- Management
+
+```
+I come prepared, fully focussed, relaxed and on time to all my 1:1s.
+Instead of feeling exhausted I see that we are making progress. We
+have moments of success.
+```
+
+The "one-on-one" process was new to me, but I do agree it can be a powerful tool for both parties. Industry needs more of these.
+
+### [5 Whys - Getting to the Root of a Problem Quickly](https://www.mindtools.com/pages/article/newTMC_5W.htm)
+- debugging, analysis
+
+```
+Start with a problem and ask why it is occurring. Make sure that
+your answer is grounded in fact, and then ask the question again.
+Continue the process until you reach the root cause of the problem,
+and you can identify a counter-measure that will prevent it from
+recurring.
+```
+
+Clear description of Toyota's **5 Whys technique** and when and how to use it. Bonus points for references to more complicated tools for more complicated cases. Remember to check those, too!
+
+### [Always Ask Why Five Times](https://thedesignteam.io/always-ask-why-five-times-452345856bde)
+Pablo Stanley 1 Apr 2019
+- Design, humour
+
+A different intro to **5 Whys technique**. Maybe.
+
+### [Why Productive People Have Empty Schedules](https://www.fastcompany.com/3009536/why-productive-people-have-empty-schedules)
+Drake Baer 5 Oct 2013
+- Time management, productivity
+
+```
+“Saying ‘no’ has more creative power than ideas, insights and
+talent combined. No guards time, the thread from which we weave
+our creations. The math of time is simple: you have less than
+you think and need more than you know.”
+
+-- Kevin Ashton
+```
+
+Something to think about.
+
 ## 2019 August
 
 ### [My Points on Flutter as a React Native Developer](https://medium.com/@reime005/my-points-on-flutter-as-a-react-native-developer-7e55da1fcf6a)
