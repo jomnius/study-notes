@@ -32,6 +32,19 @@ Overall, these sources are overlapping more or less.
 
 ### 2019 September
 
+### [Decoding money from JSON in Swift](https://medium.com/wultra-blog/decoding-money-from-json-in-swift-d61a3fcf6404)
+Jan Koběrský 7 Sep 2018
+- Swift
+
+Oh, yes! Been there, done that :D However I love that Jan took the time to write down the frustration.
+
+```
+If you own an entire stack of your app (including backend) or
+can get the developer who is developing the backend to change it,
+use string.
+```
+Here we have an excellent example why you MUST have front-end developers participate in API design and review. This is one of those backend "don't care" things that make a huge difference at front-end.
+
 ### [How I Managed to Enjoy My One-on-Ones](https://medium.com/@aike.sommer/how-i-managed-to-enjoy-my-one-on-ones-4be172c82d1d)
 Aike J Sommer 28 Aug 2019
 - Management
