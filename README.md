@@ -32,6 +32,52 @@ Overall, these sources are overlapping more or less.
 
 ### 2019 September
 
+### [#NoEstimates to address misuse of estimates only treats the symptoms](https://medium.com/serious-scrum/noestimates-to-address-misuse-of-estimates-only-treats-the-symptoms-d585238bf63d)
+Willem-Jan Ageling 25 Aug 2019
+- Scrum, product management
+
+Obviously author is no friend of `no-estimates`, but it's good to hear the other side of the story. Some good points here.
+
+### [6 pivotal things that weren’t Scrum canon but got introduced later](https://medium.com/serious-scrum/6-pivotal-things-that-werent-scrum-canon-but-got-introduced-later-135d7417d654)
+Willem-Jan Ageling 13 Jan 2019
+- Scrum, product management
+
+Scrum makes much more sense after reading about the history and changes over the years.
+
+You can see now when a person or organization learned about scrum - and got stuck with that specific version. It also makes it easier to understand why they abandoned it and moved to some other (more modern) system (to be abandoned later).
+
+### [5 controversial topics that were removed from Scrum](https://medium.com/serious-scrum/5-controversial-topics-that-were-removed-from-scrum-68b5e83d38f2)
+Willem-Jan Ageling 1 Aug 2018
+- Scrum, product management
+
+I've used scrum many times and each time it has been different. This article describes some of the changes to "official" scrum over the last 10 years and I have to agree: changes have been good.
+
+Btw if you're interested in Scrum, check he's twitter feed: https://twitter.com/WJAgeling
+
+A lot of really interesting links, could easily use the rest of the day reading those - except priorities, focus, getting things done... so weekend plans are now ready :)
+
+### [Clean AppDelegate](https://medium.com/swlh/clean-appdelegate-53dbf5e3dc1)
+Steven Curtis 2 Aug 2019
+- iOS, architecture
+
+Move services away from (potentially massive) AppDelegate by creating standalone classes - which conform to UIApplicationDelegate protocol and implement at least `didFinishLaunchingWithOptions` method.
+
+Seems a bit potentially unsafe, but idea is solid in general. I've done similar things using system notifications e.g. `didEnterBackgroundNotification` instead of `func applicationDidEnterBackground`, but it's always good to see alternative solutions and think about the differences.
+
+### [Pure functions in Swift](https://www.swiftbysundell.com/posts/pure-functions-in-swift)
+John Sundell 5 May 2019
+- Swift, testing
+
+```
+A function is considered pure when it doesn’t produce any side
+effects and when it doesn’t rely on any external state.
+
+The core idea is that a pure function will always produce the
+same output for a given set of input — regardless of when and
+how many times it’s called.
+```
+Good definition with several sample codes, from awkward to something to actually think about.
+
 ### [Decoding money from JSON in Swift](https://medium.com/wultra-blog/decoding-money-from-json-in-swift-d61a3fcf6404)
 Jan Koběrský 7 Sep 2018
 - Swift
