@@ -32,6 +32,14 @@ Overall, these sources are overlapping more or less.
 
 ### 2019 September
 
+### [“Scrum Revealed — Training Book” doesn’t teach you Scrum](https://medium.com/serious-scrum/scrum-revealed-training-book-doesnt-teach-you-scrum-f02eb7f78332)
+Willem-Jan Ageling 7 Jul 2019
+- Scrum, product management
+
+Comparing 2 Single Sources of Truth about Scrum: **Scrum Guide** (Scrum Alliance & Scrum.org) vs. **Scrum Revealed** (International Scrum Institude).
+
+Interesting. Explains a lot about scrums I've seen.
+
 ### [#NoEstimates to address misuse of estimates only treats the symptoms](https://medium.com/serious-scrum/noestimates-to-address-misuse-of-estimates-only-treats-the-symptoms-d585238bf63d)
 Willem-Jan Ageling 25 Aug 2019
 - Scrum, product management
