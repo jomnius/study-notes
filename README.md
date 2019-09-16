@@ -19,7 +19,7 @@ The value of physically writing things down is to make it easier for me to remem
 My most common sources for non-work related study inspiration are:
 - [iOS Dev Weekly](https://iosdevweekly.com) by Dave Verwer. Delightful collection of the best in mobile development this week (Friday). If you check anything, this is the one!
 - [Ray Wenderlich](https://www.raywenderlich.com), massive site for all mobile development related training. Videos, articles, books, podcasts. High quality material.
-- [Daily Medium Digest](https://medium.com), personalized for me based on... something. There is some criticism against Medium, but it does have lots of quality diverse content. What I like most is that it proposes me articles outside of my main areas of interest, probably because it doesn't know me as well as it would like to. Which is just fine.
+- [Daily Medium Digest](https://medium.com), personalized for me based on... something. There is some criticism against Medium, but it does have lots of quality diverse content. What I like most is that it proposes me articles outside of my main areas of interest, probably because it doesn't know  me as well as it would like to. Which is just fine.
 - [iOS Goodies](ios-goodies.com), interesting weekly list of links.
 
 Overall, these sources are overlapping more or less.
@@ -31,6 +31,63 @@ Overall, these sources are overlapping more or less.
 ---
 
 ### 2019 September
+
+### [How to use MVVM, Coordinators, and RxSwift](https://hackernoon.com/how-to-use-mvvm-coordinators-and-rxswift-7364370b7b95)
+Arthur Myronenko 29 Juna 2018
+- iOS, architecture
+
+```
+There are no silver bullets when it comes to building an iOS app
+architecture. Each solution has its own drawbacks and may or may
+not suit your project. Sticking to the architecture is a matter of
+weighing tradeoffs in your particular situation.
+```
+Overview of refactoring sample app from MVC to MVVM+Coordinators, referring to sample code in [github](https://github.com/uptechteam/Coordinator-MVVM-Rx-Example). No updates in 2 years, so it's perfect.
+
+One of my favorite overviews, because it stays at a bit higher level - and has excellent diagrams.
+
+### [A Flexible Routing Approach in an iOS App](https://medium.com/rosberryapps/the-flexible-routing-approach-in-an-ios-app-eb4b05aa7f52)
+Nikita Ermolenko1 Feb 2018
+- iOS, architecture
+
+Sample of **MVVM+Router architecture**, developed by going from extension to protocol extension to protocol with generics to protocol composition. Interesting path.
+
+This author doesn't like storyboards at all.
+
+### [All About Routing in Clean Swift](https://clean-swift.com/routing-in-clean-swift/)
+Raymond Law at non-disclosured date
+- Swift, architecture
+
+Part of ["Clean Swift Architecture"](https://clean-swift.com/clean-swift-ios-architecture/) blog series, the routing part. Basically app internal navigation inside **VIP** (View, Interactor, Presenter) architecture, which is based on [Uncle Bob's The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html).
+
+Note that this author prefers using Storyboards, unlike most complex architecture blogs. He actually solved the problem!
+
+### [How to use the coordinator pattern in iOS apps](https://www.hackingwithswift.com/articles/71/how-to-use-the-coordinator-pattern-in-ios-apps)
+Paul Hudson 29 March 2019
+- Swift, architecture
+
+Series of 3+1 articles about **Coordinator Pattern** in simple use case. Pretty clear description, with references to original articles by  Soroush Khanlou (who has many interesting articles to check out). Reminds me about **Router Pattern**.
+
+### [Continuous Integration](http://khanlou.com/2019/07/continuous-integration/)
+Soroush Khanlou 16 July 2019
+- Swift, CI
+
+```
+continuous integration isn’t a build server, it’s a mindset
+```
+Some argument and tips for making CI both continuous and integrating. Totally agree.
+
+### [Using URLCache As An Alternative To Retaining Network Model Objects](http://iandundas.com/blog/2018/5/28/c4c2pn1lmht4zpc2ur32bcy4o52vsr)
+Ian Dundas 28 May 2018
+- Swift, iOS
+
+Description of how a project was using `URLCache`.
+
+### [Caching in Swift](https://www.swiftbysundell.com/articles/caching-in-swift)
+John Sundell 25 Aug 2019
+- Swift, iOS
+
+Story (and code) how to build a swift-compatible `Cache` on top of Objective-C `NSCache`. Good read, there's a lot of things to do for proper caching.
 
 ### [“Scrum Revealed — Training Book” doesn’t teach you Scrum](https://medium.com/serious-scrum/scrum-revealed-training-book-doesnt-teach-you-scrum-f02eb7f78332)
 Willem-Jan Ageling 7 Jul 2019
